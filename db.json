@@ -1,0 +1,27 @@
+{
+  "users": [
+    {
+      "id": "dev-01",
+      "email": "taihub20@gmail.com",
+      "phone": "9999999999",
+      "address": "Tai Hub Office",
+      "passwordHash": "$2b$10$rzx2q3ysigEH8dGr.ZFfZ.5oLXFoTlWaaSplnWptuMRJJzVfEmWkO",
+      "role": "admin",
+      "name": "Tai Hub Admin",
+      "permissions": ["all"]
+    },
+    {
+      "id": "dev-02",
+      "email": "dev@taihub.com",
+      "phone": "6901543900",
+      "address": "Developer HQ",
+      "passwordHash": "$2b$10$rzx2q3ysigEH8dGr.ZFfZ.5oLXFoTlWaaSplnWptuMRJJzVfEmWkO",
+      "role": "admin",
+      "name": "Developer",
+      "permissions": ["all"]
+    }
+  ],
+  "products": [],
+  "orders": [],
+  "transactions": []
+}
